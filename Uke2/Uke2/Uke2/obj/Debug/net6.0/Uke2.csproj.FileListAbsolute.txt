@@ -1,0 +1,15 @@
+C:\Users\Hans\Documents\playground\Uke2\Uke2\Uke2\bin\Debug\net6.0\Uke2.exe
+C:\Users\Hans\Documents\playground\Uke2\Uke2\Uke2\bin\Debug\net6.0\Uke2.deps.json
+C:\Users\Hans\Documents\playground\Uke2\Uke2\Uke2\bin\Debug\net6.0\Uke2.runtimeconfig.json
+C:\Users\Hans\Documents\playground\Uke2\Uke2\Uke2\bin\Debug\net6.0\Uke2.dll
+C:\Users\Hans\Documents\playground\Uke2\Uke2\Uke2\bin\Debug\net6.0\Uke2.pdb
+C:\Users\Hans\Documents\playground\Uke2\Uke2\Uke2\obj\Debug\net6.0\Uke2.csproj.AssemblyReference.cache
+C:\Users\Hans\Documents\playground\Uke2\Uke2\Uke2\obj\Debug\net6.0\Uke2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hans\Documents\playground\Uke2\Uke2\Uke2\obj\Debug\net6.0\Uke2.AssemblyInfoInputs.cache
+C:\Users\Hans\Documents\playground\Uke2\Uke2\Uke2\obj\Debug\net6.0\Uke2.AssemblyInfo.cs
+C:\Users\Hans\Documents\playground\Uke2\Uke2\Uke2\obj\Debug\net6.0\Uke2.csproj.CoreCompileInputs.cache
+C:\Users\Hans\Documents\playground\Uke2\Uke2\Uke2\obj\Debug\net6.0\Uke2.dll
+C:\Users\Hans\Documents\playground\Uke2\Uke2\Uke2\obj\Debug\net6.0\refint\Uke2.dll
+C:\Users\Hans\Documents\playground\Uke2\Uke2\Uke2\obj\Debug\net6.0\Uke2.pdb
+C:\Users\Hans\Documents\playground\Uke2\Uke2\Uke2\obj\Debug\net6.0\Uke2.genruntimeconfig.cache
+C:\Users\Hans\Documents\playground\Uke2\Uke2\Uke2\obj\Debug\net6.0\ref\Uke2.dll
